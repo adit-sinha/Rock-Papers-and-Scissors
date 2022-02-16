@@ -13,3 +13,6 @@ Screen 2: Game Screen where user makes choices between rock, papers and scissors
 ## Future Updates:
 - Improving the GUI
 - Creating a user-exclusive scoreboard system
+
+## Note:
+Images used in the project belong to http://shutterstock.com/.
